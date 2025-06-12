@@ -3,7 +3,7 @@
 🎓 Student of Electrical Engineering at [Elektrotehnički fakultet, Istočno Sarajevo](https://www.etf.ues.rs.ba/)  
 💻 Passionate about networks, databases and embedded systems
 
-🏆 M:stipendija since 2025**  
+🏆 M:stipendija since 2025
 
 ## 🔧 Technical Skills
 
