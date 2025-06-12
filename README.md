@@ -1,7 +1,7 @@
 # 🚀 Filip Konculić | Electrical Engineering Student
 
 🎓 Student of Electrical Engineering at [Elektrotehnički fakultet, Istočno Sarajevo](https://www.etf.ues.rs.ba/)  
-💻 Passionate about programming, databases, networks and embedded systems
+💻 Passionate about networks, databases and embedded systems
 
 🏆 M:stipendija since 2025**  
 
